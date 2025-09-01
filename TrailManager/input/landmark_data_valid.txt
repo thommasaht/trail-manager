@@ -1,0 +1,16 @@
+LANDMARK_ID,DESCRIPTION,TYPE
+L01,Park Entrance,Location
+L02,Restroom 1,Restroom
+L03,Visitor Center,Building
+L04,Waste Station 1,Pet Waste Station
+L05,Waste Station 2,Pet Waste Station
+L06,Open Meadow,Field
+L07,Waterfall,Body of Water
+L08,Lake,Body of Water
+L09,Rock Formation 1,Rock Formation
+L10,Overlook 1,Overlook
+L11,Restroom 2,Restroom
+L12,Campsite 1,Campsite
+L13,Showers 1,Showers
+L14,Overlook 2,Overlook
+L15,Pond,Body of Water
